@@ -1,4 +1,4 @@
 # colorcap
 
-![avatar](C:\Users\ema\Desktop\1.jpg)
-![avatar](C:\Users\ema\Desktop\2.jpg)
+[Imgur](https://i.imgur.com/p0tNvD0.png)
+[Imgur](https://i.imgur.com/CeTNX1y.png)
