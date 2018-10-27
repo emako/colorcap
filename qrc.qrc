@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/eyedropper_tool_64.png</file>
+        <file>res/eyedropper_tool_16.png</file>
+        <file>res/eyedropper_tool_24.png</file>
+        <file>res/eyedropper_tool_32.png</file>
+        <file>res/eyedropper_tool_48.png</file>
+        <file>res/eyedropper.cur</file>
+        <file>res/blank_alpha.png</file>
+        <file>res/art.ico</file>
+        <file>res/yuv.ico</file>
+        <file>logo.ico</file>
+        <file>res/svgs/exclamation.svg</file>
+        <file>res/svgs/exclamation-circle.svg</file>
+        <file>res/svgs/info-circle.svg</file>
+        <file>res/svgs/palette.svg</file>
+        <file>res/strings/about</file>
+    </qresource>
+</RCC>
